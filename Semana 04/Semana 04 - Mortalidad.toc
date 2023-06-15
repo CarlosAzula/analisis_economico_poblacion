@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{La Fecundidad (Parte I)}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{1. Introducción}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{2. Concepto y medición de la mortalidad}{8}{0}{1}
+\beamer@subsectionintoc {1}{3}{3. Factores que influyen en la mortalidad}{14}{0}{1}
+\beamer@subsectionintoc {1}{4}{4. Patrones de mortalidad a nivel mundial}{23}{0}{1}
+\beamer@sectionintoc {2}{La Mortalidad (Parte II)}{29}{0}{2}
+\beamer@subsectionintoc {2}{1}{5. Consecuencias de la mortalidad}{29}{0}{2}
+\beamer@subsectionintoc {2}{2}{6. Estrategias para reducir la mortalidad}{37}{0}{2}
+\beamer@subsectionintoc {2}{3}{7. Conclusiones}{46}{0}{2}
